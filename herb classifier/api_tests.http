@@ -1,0 +1,16 @@
+### A test request for the herb classifier
+# @name testHerbImage
+POST http://127.0.0.1:5000/predict
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+# IMPORTANT: The 'image' name must match what the server expects.
+# After the filename="", you must put the full path to your test image file.
+Content-Disposition: form-data; name="image"; filename="ashwagandha.jpg"
+Content-Type: image/jpeg
+
+# Use the '<' symbol to tell REST Client to read the content from a file.
+# Replace the path below with the actual path to your test image.
+< D:\projects\herb classifier\tulsi.jpg
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW--

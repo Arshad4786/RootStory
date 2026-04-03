@@ -127,7 +127,7 @@ export default function HomeScreen() {
         
         {/* Header */}
         <View style={styles.header}>
-          <Text style={styles.title}>AyurPhoria</Text>
+          <Text style={styles.title}>RootStory</Text>
           <Text style={styles.subtitle}>Blockchain-Powered Ayurvedic Herb Traceability</Text>
           <View style={styles.statusBadge}>
             <View style={styles.statusDot} />
