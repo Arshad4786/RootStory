@@ -20,21 +20,31 @@ RootStory (Ayurphoria) is an AI-powered mobile application that identifies medic
 
 ### Home Screen
 
-![Home Screen](./public/home.png)
+![Home Screen](./public/home.jpg)
 
-![Farmer Dashboard](./public/db.png)
+### Farmer Dashboard
 
-![Collection Entry](./public/ce.png)
+![Farmer Dashboard](./public/db.jpg)
 
-![Processing Center](./public/process.png)
+### Collection Entry
 
-![Manufacturing Hub](./public/mh.png)
+![Collection Entry](./public/ce.jpg)
 
-![Reports](./public/r1.png)
+### Processing Center
 
-![Reports](./public/r2.png)
+![Processing Center](./public/process.jpg)
 
-![Reports](./public/r3.png)
+### Manufacturing Hub
+
+![Manufacturing Hub](./public/mh.jpg)
+
+### Report Generation
+
+![Reports](./public/r1.jpg)
+
+![Reports](./public/r2.jpg)
+
+![Reports](./public/r3.jpg)
 
 
 ## 🏗️ Project Structure
